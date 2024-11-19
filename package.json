@@ -1,0 +1,14 @@
+{
+  "name": "servidor-database",
+  "version": "0.0.1",
+  "description": "crearemos un pequeño servidor de base de datos de profesores y alumnos",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Damian Perez",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}

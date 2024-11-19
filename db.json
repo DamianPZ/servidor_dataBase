@@ -1,0 +1,49 @@
+{
+  "profesores": [
+    {
+      "nombre": "Damian Perez",
+      "edad": 31,
+      "id": "d563"
+    },
+    {
+      "nombre": "Cristina Medina",
+      "edad": 36,
+      "id": "fdbe"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Malena Perez",
+      "edad": "7",
+      "id": "0625"
+    },
+    {
+      "nombre": "Guada Perez",
+      "edad": "2",
+      "id": "e269"
+    },
+    {
+      "nombre": "Valentina Perez",
+      "edad": "7 meses",
+      "id": "e48b"
+    }
+  ],
+  "materias": [
+    {
+      "programacion": "NodeJs desde cero",
+      "id": "3d91"
+    },
+    {
+      "ingles": "ingles desde cero",
+      "id": "e57b"
+    },
+    {
+      "id": "e577",
+      "matematica": "matematica para programar"
+    },
+    {
+      "id": "f427",
+      "historia": "historia de la programacion"
+    }
+  ]
+}
